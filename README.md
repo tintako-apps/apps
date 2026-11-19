@@ -10,8 +10,10 @@ A collection of lightweight, minimalist, and privacy-focused applications made f
 | [Cards](https://github.com/tintako-apps/wallet) | An offline, encrypted wallet for loyalty, library, gym and club cards (formerly Wallet) |
 | [Books](https://github.com/tintako-apps/books) | A simple offline e-reader made for E Ink; copy books from your computer and they appear in the library on their own |
 | [Sudoku+](https://github.com/tintako-apps/sudoku) | A calm, fully offline sudoku made for E Ink devices |
-| [Browser](https://github.com/tintako-apps/browser) | A web browser with reader mode |
+| [Ink Browser](https://github.com/tintako-apps/browser) | A web browser with reader mode |
 | [Snake](https://github.com/tintako-apps/snake) | The classic snake game, made for E Ink |
+| [Calendar](https://github.com/tintako-apps/calendar) | A quiet calendar: iCloud and Zoho both ways, .ics links and a calendar on the phone |
+| [Navigation](https://github.com/tintako-apps/navigation) | Offline maps and turn-by-turn navigation by car, on foot or by bicycle |
 
 Download each app's APK from its Releases page and install it on your E Ink device.
 
